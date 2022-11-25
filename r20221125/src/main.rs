@@ -2,6 +2,7 @@
 struct Solution{}
 
 impl Solution {
+    // rust 迭代器
     pub fn running_sum(nums: Vec<i32>) -> Vec<i32> {
         nums.iter()
             .scan(0, |acc, &x| {
