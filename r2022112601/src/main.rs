@@ -1,9 +1,10 @@
-// use std::convert::TryInto;
+use num::complex::Complex;
 
 fn main() {
-    let abc: (f32, f32, f32) = (0.1, 0.2, 0.3);
+    let  a = Complex{ re: (2.1), im: (-1.2), };
+    let b = Complex::new(11.1, 22.2);
 
-    assert_eq!(abc.0 + abc.1, abc.2);
+    let result = a + b;
 
-    println!("{:?}", abc);
+    println!("{} + {}i", result.re, result.im);
 }
