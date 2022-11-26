@@ -1,12 +1,9 @@
-use std::convert::TryInto;
+// use std::convert::TryInto;
 
 fn main() {
-    let a:i32 = 10;
-    let b:u16 = 100;
+    let abc: (f32, f32, f32) = (0.1, 0.2, 0.3);
 
-    let b_ = b.try_into().unwrap();
+    assert_eq!(abc.0 + abc.1, abc.2);
 
-    if a < b_ {
-        println!("Ten is less than one hundred.");
-    }
+    println!("{:?}", abc);
 }
