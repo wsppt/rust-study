@@ -1,5 +1,8 @@
 use num::complex::Complex;
 
+// cargo install cargo-edit
+// cargo add num
+
 fn main() {
     let  a = Complex{ re: (2.1), im: (-1.2), };
     let b = Complex::new(11.1, 22.2);
