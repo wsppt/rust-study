@@ -17,4 +17,14 @@ https://github.com/PKUanonym/REKCARC-TSC-UHT
 北京大学计算机课程
 https://github.com/lib-pku/libpku
 
+浙江大学
+https://github.com/QSCTech/zju-icicles
+
+上海交通大学
+https://github.com/kxxwz/SJTU-Courses
+
+中国科学技术大学
+https://github.com/USTC-Resource/USTC-Course
+
+
 
