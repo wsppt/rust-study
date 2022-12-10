@@ -1,6 +1,6 @@
-#cpp study
+# cpp study
 
-#高质量c++公开课
+# 高质量c++公开课
 
 https://www.zhihu.com/question/20812015
 
