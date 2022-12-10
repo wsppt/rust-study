@@ -14,4 +14,7 @@ https://cloud.tsinghua.edu.cn/d/e28e066233b144ddb50c/files/?p=%2F2022-08-15%20%E
 清华大学计算机课程
 https://github.com/PKUanonym/REKCARC-TSC-UHT
 
+北京大学计算机课程
+https://github.com/lib-pku/libpku
+
 
